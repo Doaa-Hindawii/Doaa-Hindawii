@@ -1,6 +1,6 @@
-# Hi there 💻 This is Doaa Hinadawii
+# Hi there, this is Doaa Hinadawii
 
-## Full Stack .Net Developer.
+## Full Stack .Net Developer.  💻
 
 - 🔭 I am a self-taught .Net developer.
 - 🌱 I’m currently a trainee of ITI-42, Professional Web Development and BI track.
