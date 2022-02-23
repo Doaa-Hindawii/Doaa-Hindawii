@@ -12,6 +12,11 @@ With good experience in applying new features and updates of .Net. My main goal 
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/doaa-hindawii-b542a71b4/)
 - :zap: In my free time, I solve problems on CodePen&StackOverflow and read tech articles on GeeksforGeeks.
+<p align="center">
+ <a href="https://codepen.io/doaa-hindawii" target="_blank" rel="noopener noreferrer"> <img src="https://th.bing.com/th/id/OIP.ZkEMd5FVTdhlyoS5niAeawHaHa?pid=ImgDet&rs=1" alt="DoaaCodePen" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/doaa-hindawii-b542a71b4/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="DoaaHindawiiLinkedin" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:doaa.hendawy11@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="DoaaHindawiiGmail" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
 
 
 ### :hammer_and_wrench: Languages and Tools :
