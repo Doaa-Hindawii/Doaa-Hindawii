@@ -4,14 +4,14 @@
 
 <p align="center">
 With good experience in applying new features and updates of .Net. My main goal is to become a professional FullStack .Net developer focusing on Asp.Net Core, Web API, Angular and to work with like-minded people, who not only possess professional skills but also have the desire to make people's lives better.
-</p>
+</p><br><br>
 
 
 
 - 🔭 I am a self-taught .Net developer.
 - 🌱 I’m currently a trainee of ITI-42, Professional Web Development and BI track.
 - :zap: In my free time, I solve problems on CodePen&StackOverflow and read tech articles on GeeksforGeeks.
-<p align="center">
+
  <a href="https://codepen.io/doaa-hindawii" target="_blank" rel="noopener noreferrer"> <img src="https://th.bing.com/th/id/OIP.ZkEMd5FVTdhlyoS5niAeawHaHa?pid=ImgDet&rs=1" alt="DoaaCodePen" height="30" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/doaa-hindawii-b542a71b4/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="DoaaHindawiiLinkedin" height="30" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:doaa.hendawy11@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="DoaaHindawiiGmail" height="30" style="vertical-align:top; margin:4px"></a>
