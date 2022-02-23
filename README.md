@@ -13,6 +13,7 @@ Many thanks,
 Doaa
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/doaa-hindawii-b542a71b4/)
+- :zap: In my free time, I solve problems on CodePen&StackOverflow and read tech articles on GeeksforGeeks.
 
 
 ### :hammer_and_wrench: Languages and Tools :
