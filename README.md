@@ -8,6 +8,7 @@
 
 With good experience in applying new features and updates of .Net. My main goal is to become a professional FullStack .Net developer focusing on Asp.Net Core, Web API, Angular and to work with like-minded people, who not only possess professional skills but also have the desire to make people's lives better.
 <br>
+Feel free to contact me...
 
 ###  How to reach me:
  <a href="https://codepen.io/doaa-hindawii/collections/" target="_blank" rel="noopener noreferrer"> <img src="https://th.bing.com/th/id/OIP.ZkEMd5FVTdhlyoS5niAeawHaHa?pid=ImgDet&rs=1" alt="DoaaCodePen" height="25" style="vertical-align:top; margin:4px"> </a>
