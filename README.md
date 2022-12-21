@@ -3,7 +3,7 @@
 ## Full Stack .Net Developer.  💻
 
 - 🔭 I am a self-taught .Net developer.
-- 🌱 I’m currently a trainee of ITI-42, Professional Web Development and BI track.
+- 🌱 I’m currently a graduate of ITI-42, Professional Web Development and BI track.
 - :zap: In my free time, I solve problems on CodePen&StackOverflow and read tech articles on GeeksforGeeks.
 
 With good experience in applying new features and updates of .Net. My main goal is to become a professional FullStack .Net developer focusing on Asp.Net Core, Web API, Angular and to work with like-minded people, who not only possess professional skills but also have the desire to make people's lives better.
