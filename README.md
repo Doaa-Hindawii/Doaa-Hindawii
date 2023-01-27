@@ -12,8 +12,7 @@ Feel free to contact me...
 
 ###  How to reach me:
  <a href="https://codepen.io/doaa-hindawii/collections/" target="_blank" rel="noopener noreferrer"> <img src="https://th.bing.com/th/id/OIP.ZkEMd5FVTdhlyoS5niAeawHaHa?pid=ImgDet&rs=1" alt="DoaaCodePen" height="25" style="vertical-align:top; margin:4px"> </a>
-
- <a href="mailto:doaa.hendawy11@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="DoaaHindawiiGmail" height="25" style="vertical-align:top; margin:4px"></a>
+<a href="mailto:doaa.hendawy11@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="DoaaHindawiiGmail" height="25" style="vertical-align:top; margin:4px"></a>
 
 <br>
 
